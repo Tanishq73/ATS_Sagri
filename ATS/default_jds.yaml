@@ -1,0 +1,164 @@
+Senior Product Manager: 
+  ''' Sagri is a pioneering AgriTech startup that combines satellite data, artificial intelligence, and grid technology to tackle critical challenges in agriculture and the environment. Our mission is to create value by visualizing agricultural land, enabling sustainable farming practices, reducing carbon emissions, and driving positive change for farmers, the planet, and future generations.
+
+  The Role
+
+  Role
+
+  As an experienced and visionary Senior Product Manager, you will lead the development and growth of our Measure, Report, and Verify (MRV) decarbonization platform. This role is crucial in our mission to help agricultural enterprises comply with the Science-Based Targets initiative (SBTi) and its Forest, Land, and Agriculture (FLAG) guidance. In this role, you will:
+
+  Own the product vision, strategy, and roadmap for the MRV platform, aligning it with Sagri's overall mission and business objectives.
+  Collaborate closely with cross-functional teams, including engineering, data science, UX/UI, and business development, to deliver a world-class product.
+  Conduct market research and competitive analysis to identify opportunities for innovation and differentiation.
+  Gather and prioritize product requirements, working closely with stakeholders to understand their needs and pain points.
+  Define and track key performance indicators (KPIs) for the MRV platform.
+  Manage the product backlog, write detailed user stories, and work with the development team to ensure timely delivery of features.
+  Act as the primary liaison between technical teams and business stakeholders, effectively communicating product vision, features, and timeline.
+  Stay current with the latest carbon accounting trends, sustainable agriculture, and relevant technologies.
+  Collaborate with marketing and sales teams to develop go-to-market strategies and product positioning.
+  Represent Sagri at industry events and engage with key clients and partners.
+
+  Ideal Profile
+
+  You possess a Bachelor's degree in Computer Science, Engineering, Environmental Science, or a related field. An MBA is a plus.
+  You have at least 6 years of Product Management experience, preferably in AgriTech, ClimateTech, or environmental technologies
+  You have hands-on experience in carbon markets, including a solid understanding of carbon insetting and offsetting mechanisms.
+  You also have a solid knowledge of carbon accounting principles, sustainability reporting frameworks (e.g., GHG Protocol), and agricultural practices
+  A hands-on understanding of agile development methodologies and experience working in fast-paced, iterative environments is required.
+  You have experience with data-driven decision-making and A/B testing methodologies
+  Familiarity with remote sensing technologies, GIS, and data visualization tools is a plus.
+  You have a proven track record of translating complex technical concepts into user-friendly products.
+  You are analytical and a problem-solver.
+  Excellent communication and presentation skills, with the ability to influence and collaborate across all levels of the organization, would be required to drive results.
+  You are detail-oriented, with strong project management skills.
+  You are passionate about sustainability and leveraging technology to drive positive environmental impact.
+
+  What's on Offer?
+
+  Impactful role driving the development of cutting-edge solutions for sustainability and food security
+  Opportunity for rapid career growth in a fast-growing startup
+  Work with state-of-the-art technologies in AI, remote sensing, and data analytics
+  Be part of a diverse, talented, and mission-driven team '''
+
+Senior Data Scientist (Remote Sensing):
+  '''Sagri Inc. is a pioneering social impact startup founded in 2018 with the vision of "realizing the coexistence of humanity and the earth." We utilize satellite data and AI technology to address global food crises and climate change challenges. Our core products - Actaba, Detaba, and Sagri - offer innovative solutions in agricultural management and optimization. We are now developing an advanced MRV (Measure, Report, and Verify) and decarbonization platform for agricultural enterprises, aimed at revolutionizing sustainability practices in the agricultural sector.
+
+  The Role
+
+  We are seeking a Senior Data Scientist to join our dynamic team and lead the development of machine learning components for our innovative MRV and decarbonization platform. This role will be crucial in integrating advanced AI, satellite remote sensing, and comprehensive carbon footprint tracking to provide a holistic solution for agricultural enterprises, government agencies, and farmers.
+
+  Key Responsibilities
+
+  Lead the research, development, and implementation of machine learning systems for the MRV (Measure, Report, and Verify) platform.
+  Develop and implement machine learning models for crop classification, yield estimation, soil health analysis, and carbon/GHG emission prediction using satellite data.
+  Process and analyze large-scale satellite imagery and IoT data to provide actionable insights.
+  Create advanced analytics and predictive models for carbon footprint tracking and reduction recommendations.
+  Collaborate with cross-functional teams to ensure alignment of machine learning development with user needs and regulatory requirements.
+  Mentor junior team members and contribute to the growth of the machine learning team.
+  Integrate machine learning models into production environments and develop data processing pipelines.
+
+  Ideal Profile
+
+  You possess a Bachelor's degree in Computer Science or a related field, with at least 5 years of experience as a Machine Learning Engineer or Data Scientist, including at least 2 years in a leadership or mentorship role.
+  You have a strong proficiency in Python and experience with cloud platforms (AWS).
+  You have extensive experience with deep learning and computer vision models, including CNNs, LSTMs, and transformers, as well as experience in designing and deploying models for images and time-series data.
+  You have hands-on experience with satellite (e.g., S1, S2, Landsat, Modis) image processing and geospatial data analysis.
+  You have knowledge of carbon accounting principles and environmental reporting standards.
+  You have excellent problem-solving skills and ability to work in a fast-paced, innovative environment.
+
+  Our Tech Stack
+
+  Languages: Python, TypeScript
+  Machine Learning: TensorFlow, PyTorch
+  Cloud: AWS (EC2, EKS, S3, SageMaker, etc.)
+  Version Control: Git, GitHub
+  Project Management: JIRA
+  Communication Tools: Slack, Notion
+
+  What's on Offer?
+
+  Exciting opportunity with a pioneering social impact startup utilizing satellite data and AI to address global food crisis and climate change challenges.
+  Be part of a passionate team creating a significant societal impact by tackling diverse, impactful challenges '''
+
+Senior ML Ops Engineer:
+  '''Sagri is a pioneering AgriTech startup that combines satellite data, artificial intelligence, and grid technology to tackle critical challenges in agriculture and the environment. Our mission is to create value by visualizing agricultural land, enabling sustainable farming practices, reducing carbon emissions, and driving positive change for farmers, the planet, and future generations.
+
+  The Role
+
+  As an MLOps Engineer, you will be responsible for managing the end-to-end lifecycle of machine learning models, from development to production, focusing on automation, scalability and monitoring. You will collaborate closely with data scientists, engineers and domain experts to ensure seamless deployment, maintenance and optimization of ML models that are used for projects like crop classification, soil health analysis and carbon emission monitoring in the agricultural domain.
+
+  Design and implement automated ML pipelines for developing, testing, deploying, and monitoring ML models.
+  Collaborate closely with Data Science and Engineering teams to integrate models into production environments.
+  Develop infrastructure for model versioning, scaling, and serving to ensure high availability and low latency.
+  Establish CI/CD processes for model deployment and data pipelines, ensuring reproducibility and consistency across environments.
+  Monitor model performance, set up logging, and create alert systems for ML models in production.
+  Optimize ML workloads for performance and cost-efficiency in cloud environments (e.g., AWS, GCP, or Azure).
+  Ensure data integrity, compliance, and security standards, especially concerning sensitive agricultural data.
+  Participate in green computing initiatives to minimize the carbon footprint of ML operations.
+  Assist in creating and maintaining a central data platform for collaborative model development and application, ensuring data pipelines and models are well-documented.
+
+  Ideal Profile
+
+  You possess a Bachelor's degree in Computer Science, Engineering, or a related field.
+  You have 6–7 years of experience in IT, focusing on MLOps, DevOps, or Data Engineering roles.
+  You possess expertise with cloud platforms (AWS, GCP, Azure) and infrastructure as code tools (e.g., Terraform, CloudFormation).
+  You demonstrate hands-on experience with Kubernetes or other container orchestration technologies for scaling ML models.
+  You are proficient with CI/CD tools (e.g., Jenkins, GitLab CI, ArgoCD) and familiar with version control (e.g., Git).
+  You have experience with data pipeline orchestration tools like Apache Airflow or Kubeflow.
+  You understand monitoring tools and techniques for tracking model performance (e.g., Prometheus, Grafana, ELK stack).
+  You are knowledgeable in data management and ETL processes, particularly with agricultural and environmental data.
+  You show proficiency in Python, with exposure to ML frameworks like TensorFlow, PyTorch, or Scikit-learn.
+  Experience in the agriculture sector or climate tech, with knowledge of carbon/GHG emissions projects is a plus.
+  Familiarity with geospatial data and remote sensing tools (e.g., Sentinel-2, Google Earth Engine) is a plus.
+  You display a commitment to automation, efficiency, and sustainability in ML operations.
+
+  What's on Offer?
+
+  Work with a well-funded AgriTech startup tackling critical challenges in Agriculture and the Environment
+  Play a pivotal role in shaping a high-impact product driving the future of Agriculture
+  Work with state-of-the-art technologies in AI, remote sensing, and data analytics
+  The opportunity to work on cutting-edge technologies that contribute to environmental sustainability. 
+  Opportunity for rapid career growth in a fast-expanding startup '''
+
+Senior Remote Sensing Engineer:
+  '''Sagri Inc. is a pioneering social impact Climate Tech Startup focused on Agriculture founded in 2018 with the vision of "realizing the coexistence of humanity and the earth." We utilize satellite data and AI technology to address global food crises and climate change challenges. Our core products - Actaba ( Land Use Categorization) , Detaba ( Crop Mapping) and related services - offer innovative solutions in agricultural management and optimization. We are now developing an advanced MRV (Measure, Report, and Verify) and decarbonization platform for agricultural enterprises, aimed at revolutionizing sustainability practices in the agricultural sector.
+
+  Website: https://sagri.tokyo/en/
+
+  The Role
+
+  We are seeking a highly skilled and experienced Lead Remote Sensing Engineer to lead the development and implementation of our remote sensing solutions for our MRV (Measure, Report, and Verify) decarbonization platform. In this role, you will be at the forefront of our efforts to utilize satellite imagery and remote sensing technologies to promote sustainable farming practices, reduce carbon emissions, and enhance the accuracy of our agricultural monitoring systems.
+
+  Responsibilities
+
+  Lead the design, development, and deployment of remote sensing systems and methodologies for the MRV decarbonization platform
+  Work closely with engineering and operations teams to understand requirements and translate them into effective mapping and visualization solutions
+  Develop algorithms and models to analyze satellite imagery and other remote sensing data for agricultural monitoring and carbon measurement
+  Create interactive and visually engaging maps and visualizations to illustrate agricultural activities and carbon emissions
+  Utilize GIS tools and techniques to generate accurate and detailed maps, integrating real-time data for dynamic representation
+  Ensure remote sensing processes and outputs' accuracy, reliability, and scalability
+  Provide technical leadership and mentorship to junior remote sensing engineers and other team members
+  Work closely with domain experts, such as soil scientists and carbon market specialists, to ensure the integrity and applicability of remote sensing data
+  Develop and implement the best remote sensing data acquisition, processing, and analysis practices
+  Communicate complex remote sensing concepts and findings to internal and external stakeholders effectively
+
+  Ideal Profile
+
+  You possess a Bachelor's degree or Master’s in Remote Sensing, Geospatial Science, Environmental Science, Computer Science, or a related field
+  You have at least 5 years of experience in remote sensing, with a proven track record of leading remote sensing projects
+  You have Strong expertise in satellite (Active / Passive - S1, S2, Landsat, Modis, etc.) imagery analysis, satellite data platforms (e.g., Sentinel Hub, Google Earth Engine), and data processing libraries (e.g., GDAL, Rasterio).
+  You have proficiency in Python, R, or JavaScript for remote sensing data processing, and familiarity with GIS software such as QGIS or ArcGIS. 
+  You have extensive knowledge of GIS principles, mapping libraries (e.g., Mapbox, Leaflet), and data visualization tools (e.g., D3.js, Tableau). 
+  Strong understanding of multispectral and hyperspectral analysis for vegetation, soil health, and water management applications. 
+  You possess strong software engineering practices and a background in Python programming, debugging/profiling, version control, and system design
+  You are experienced with APIs and integrating data from various sources
+  You have hands-on experience with at least one cloud provider, such as GCP, AWS, or Azure
+  You are familiar with machine learning techniques and their application to remote sensing data
+  You have strong problem-solving skills and the ability to develop innovative solutions for complex challenges
+  You have excellent communication and leadership skills, with the ability to work collaboratively in a cross-functional team environment
+  You have a passion for sustainability, agriculture, and leveraging technology to drive positive environmental and social impact
+
+  What's on Offer?
+
+  Exciting opportunity with a pioneering social impact startup utilizing satellite data and AI to address global food crisis and climate change challenges
+  Be part of a diverse, talented, and mission-driven team'''

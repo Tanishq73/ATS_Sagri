@@ -1,0 +1,6 @@
+[theme]
+base="light"  # Change to "dark" for dark mode
+primaryColor="#FF5733"  # Replace with your desired primary color (in hex code)
+secondaryBackgroundColor="#F9F6EE"  # Replace with your desired background color (in hex code)
+backgroundColor="#b0dfb2"  # Change the background color of the app (in hex code)
+textColor="#000000"

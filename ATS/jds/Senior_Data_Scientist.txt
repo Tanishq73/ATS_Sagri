@@ -1,0 +1,38 @@
+Sagri Inc. is a pioneering social impact startup founded in 2018 with the vision of "realizing the coexistence of humanity and the earth." We utilize satellite data and AI technology to address global food crises and climate change challenges. Our core products - Actaba, Detaba, and Sagri - offer innovative solutions in agricultural management and optimization. We are now developing an advanced MRV (Measure, Report, and Verify) and decarbonization platform for agricultural enterprises, aimed at revolutionizing sustainability practices in the agricultural sector.
+
+The Role
+
+We are seeking a Senior Data Scientist to join our dynamic team and lead the development of machine learning components for our innovative MRV and decarbonization platform. This role will be crucial in integrating advanced AI, satellite remote sensing, and comprehensive carbon footprint tracking to provide a holistic solution for agricultural enterprises, government agencies, and farmers.
+
+Key Responsibilities
+
+Lead the research, development, and implementation of machine learning systems for the MRV (Measure, Report, and Verify) platform.
+Develop and implement machine learning models for crop classification, yield estimation, soil health analysis, and carbon/GHG emission prediction using satellite data.
+Process and analyze large-scale satellite imagery and IoT data to provide actionable insights.
+Create advanced analytics and predictive models for carbon footprint tracking and reduction recommendations.
+Collaborate with cross-functional teams to ensure alignment of machine learning development with user needs and regulatory requirements.
+Mentor junior team members and contribute to the growth of the machine learning team.
+Integrate machine learning models into production environments and develop data processing pipelines.
+
+Ideal Profile
+
+You possess a Bachelor's degree in Computer Science or a related field, with at least 5 years of experience as a Machine Learning Engineer or Data Scientist, including at least 2 years in a leadership or mentorship role.
+You have a strong proficiency in Python and experience with cloud platforms (AWS).
+You have extensive experience with deep learning and computer vision models, including CNNs, LSTMs, and transformers, as well as experience in designing and deploying models for images and time-series data.
+You have hands-on experience with satellite (e.g., S1, S2, Landsat, Modis) image processing and geospatial data analysis.
+You have knowledge of carbon accounting principles and environmental reporting standards.
+You have excellent problem-solving skills and ability to work in a fast-paced, innovative environment.
+
+Our Tech Stack
+
+Languages: Python, TypeScript
+Machine Learning: TensorFlow, PyTorch
+Cloud: AWS (EC2, EKS, S3, SageMaker, etc.)
+Version Control: Git, GitHub
+Project Management: JIRA
+Communication Tools: Slack, Notion
+
+What's on Offer?
+
+Exciting opportunity with a pioneering social impact startup utilizing satellite data and AI to address global food crisis and climate change challenges.
+Be part of a passionate team creating a significant societal impact by tackling diverse, impactful challenges.

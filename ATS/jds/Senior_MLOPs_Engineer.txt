@@ -1,0 +1,38 @@
+Sagri is a pioneering AgriTech startup that combines satellite data, artificial intelligence, and grid technology to tackle critical challenges in agriculture and the environment. Our mission is to create value by visualizing agricultural land, enabling sustainable farming practices, reducing carbon emissions, and driving positive change for farmers, the planet, and future generations.
+
+The Role
+
+As an MLOps Engineer, you will be responsible for managing the end-to-end lifecycle of machine learning models, from development to production, focusing on automation, scalability and monitoring. You will collaborate closely with data scientists, engineers and domain experts to ensure seamless deployment, maintenance and optimization of ML models that are used for projects like crop classification, soil health analysis and carbon emission monitoring in the agricultural domain.
+
+Design and implement automated ML pipelines for developing, testing, deploying, and monitoring ML models.
+Collaborate closely with Data Science and Engineering teams to integrate models into production environments.
+Develop infrastructure for model versioning, scaling, and serving to ensure high availability and low latency.
+Establish CI/CD processes for model deployment and data pipelines, ensuring reproducibility and consistency across environments.
+Monitor model performance, set up logging, and create alert systems for ML models in production.
+Optimize ML workloads for performance and cost-efficiency in cloud environments (e.g., AWS, GCP, or Azure).
+Ensure data integrity, compliance, and security standards, especially concerning sensitive agricultural data.
+Participate in green computing initiatives to minimize the carbon footprint of ML operations.
+Assist in creating and maintaining a central data platform for collaborative model development and application, ensuring data pipelines and models are well-documented.
+
+Ideal Profile
+
+You possess a Bachelor's degree in Computer Science, Engineering, or a related field.
+You have 6–7 years of experience in IT, focusing on MLOps, DevOps, or Data Engineering roles.
+You possess expertise with cloud platforms (AWS, GCP, Azure) and infrastructure as code tools (e.g., Terraform, CloudFormation).
+You demonstrate hands-on experience with Kubernetes or other container orchestration technologies for scaling ML models.
+You are proficient with CI/CD tools (e.g., Jenkins, GitLab CI, ArgoCD) and familiar with version control (e.g., Git).
+You have experience with data pipeline orchestration tools like Apache Airflow or Kubeflow.
+You understand monitoring tools and techniques for tracking model performance (e.g., Prometheus, Grafana, ELK stack).
+You are knowledgeable in data management and ETL processes, particularly with agricultural and environmental data.
+You show proficiency in Python, with exposure to ML frameworks like TensorFlow, PyTorch, or Scikit-learn.
+Experience in the agriculture sector or climate tech, with knowledge of carbon/GHG emissions projects is a plus.
+Familiarity with geospatial data and remote sensing tools (e.g., Sentinel-2, Google Earth Engine) is a plus.
+You display a commitment to automation, efficiency, and sustainability in ML operations.
+
+What's on Offer?
+
+Work with a well-funded AgriTech startup tackling critical challenges in Agriculture and the Environment
+Play a pivotal role in shaping a high-impact product driving the future of Agriculture
+Work with state-of-the-art technologies in AI, remote sensing, and data analytics
+The opportunity to work on cutting-edge technologies that contribute to environmental sustainability. 
+Opportunity for rapid career growth in a fast-expanding startup

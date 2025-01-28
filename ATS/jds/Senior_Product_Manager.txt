@@ -1,0 +1,38 @@
+Sagri is a pioneering AgriTech startup that combines satellite data, artificial intelligence, and grid technology to tackle critical challenges in agriculture and the environment. Our mission is to create value by visualizing agricultural land, enabling sustainable farming practices, reducing carbon emissions, and driving positive change for farmers, the planet, and future generations.
+
+The Role
+
+As an experienced and visionary Senior Product Manager, you will lead the development and growth of our Measure, Report, and Verify (MRV) decarbonization platform. This role is crucial in our mission to help agricultural enterprises comply with the Science-Based Targets initiative (SBTi) and its Forest, Land, and Agriculture (FLAG) guidance. In this role, you will:
+
+Own the product vision, strategy, and roadmap for the MRV platform, aligning it with Sagri's overall mission and business objectives.
+Collaborate closely with cross-functional teams, including engineering, data science, UX/UI, and business development, to deliver a world-class product.
+Conduct market research and competitive analysis to identify opportunities for innovation and differentiation.
+Gather and prioritize product requirements, working closely with stakeholders to understand their needs and pain points.
+Define and track key performance indicators (KPIs) for the MRV platform.
+Manage the product backlog, write detailed user stories, and work with the development team to ensure timely delivery of features.
+Act as the primary liaison between technical teams and business stakeholders, effectively communicating product vision, features, and timeline.
+Stay current with the latest carbon accounting trends, sustainable agriculture, and relevant technologies.
+Collaborate with marketing and sales teams to develop go-to-market strategies and product positioning.
+Represent Sagri at industry events and engage with key clients and partners.
+
+Ideal Profile
+
+You possess a Bachelor's degree in Computer Science, Engineering, Environmental Science, or a related field. An MBA is a plus.
+You have at least 6 years of Product Management experience, preferably in AgriTech, ClimateTech, or environmental technologies
+You have hands-on experience in carbon markets, including a solid understanding of carbon insetting and offsetting mechanisms.
+You also have a solid knowledge of carbon accounting principles, sustainability reporting frameworks (e.g., GHG Protocol), and agricultural practices
+A hands-on understanding of agile development methodologies and experience working in fast-paced, iterative environments is required.
+You have experience with data-driven decision-making and A/B testing methodologies
+Familiarity with remote sensing technologies, GIS, and data visualization tools is a plus.
+You have a proven track record of translating complex technical concepts into user-friendly products.
+You are analytical and a problem-solver.
+Excellent communication and presentation skills, with the ability to influence and collaborate across all levels of the organization, would be required to drive results.
+You are detail-oriented, with strong project management skills.
+You are passionate about sustainability and leveraging technology to drive positive environmental impact.
+
+What's on Offer?
+
+Impactful role driving the development of cutting-edge solutions for sustainability and food security
+Opportunity for rapid career growth in a fast-growing startup
+Work with state-of-the-art technologies in AI, remote sensing, and data analytics
+Be part of a diverse, talented, and mission-driven team

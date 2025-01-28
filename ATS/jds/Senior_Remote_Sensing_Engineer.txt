@@ -1,0 +1,40 @@
+Sagri Inc. is a pioneering social impact Climate Tech Startup focused on Agriculture founded in 2018 with the vision of "realizing the coexistence of humanity and the earth." We utilize satellite data and AI technology to address global food crises and climate change challenges. Our core products - Actaba ( Land Use Categorization) , Detaba ( Crop Mapping) and related services - offer innovative solutions in agricultural management and optimization. We are now developing an advanced MRV (Measure, Report, and Verify) and decarbonization platform for agricultural enterprises, aimed at revolutionizing sustainability practices in the agricultural sector.
+
+
+The Role
+
+We are seeking a highly skilled and experienced Lead Remote Sensing Engineer to lead the development and implementation of our remote sensing solutions for our MRV (Measure, Report, and Verify) decarbonization platform. In this role, you will be at the forefront of our efforts to utilize satellite imagery and remote sensing technologies to promote sustainable farming practices, reduce carbon emissions, and enhance the accuracy of our agricultural monitoring systems.
+
+Responsibilities
+
+Lead the design, development, and deployment of remote sensing systems and methodologies for the MRV decarbonization platform
+Work closely with engineering and operations teams to understand requirements and translate them into effective mapping and visualization solutions
+Develop algorithms and models to analyze satellite imagery and other remote sensing data for agricultural monitoring and carbon measurement
+Create interactive and visually engaging maps and visualizations to illustrate agricultural activities and carbon emissions
+Utilize GIS tools and techniques to generate accurate and detailed maps, integrating real-time data for dynamic representation
+Ensure remote sensing processes and outputs' accuracy, reliability, and scalability
+Provide technical leadership and mentorship to junior remote sensing engineers and other team members
+Work closely with domain experts, such as soil scientists and carbon market specialists, to ensure the integrity and applicability of remote sensing data
+Develop and implement the best remote sensing data acquisition, processing, and analysis practices
+Communicate complex remote sensing concepts and findings to internal and external stakeholders effectively
+
+Ideal Profile
+
+You possess a Bachelor's degree or Master’s in Remote Sensing, Geospatial Science, Environmental Science, Computer Science, or a related field
+You have at least 5 years of experience in remote sensing, with a proven track record of leading remote sensing projects
+You have Strong expertise in satellite (Active / Passive - S1, S2, Landsat, Modis, etc.) imagery analysis, satellite data platforms (e.g., Sentinel Hub, Google Earth Engine), and data processing libraries (e.g., GDAL, Rasterio).
+You have proficiency in Python, R, or JavaScript for remote sensing data processing, and familiarity with GIS software such as QGIS or ArcGIS. 
+You have extensive knowledge of GIS principles, mapping libraries (e.g., Mapbox, Leaflet), and data visualization tools (e.g., D3.js, Tableau). 
+Strong understanding of multispectral and hyperspectral analysis for vegetation, soil health, and water management applications. 
+You possess strong software engineering practices and a background in Python programming, debugging/profiling, version control, and system design
+You are experienced with APIs and integrating data from various sources
+You have hands-on experience with at least one cloud provider, such as GCP, AWS, or Azure
+You are familiar with machine learning techniques and their application to remote sensing data
+You have strong problem-solving skills and the ability to develop innovative solutions for complex challenges
+You have excellent communication and leadership skills, with the ability to work collaboratively in a cross-functional team environment
+You have a passion for sustainability, agriculture, and leveraging technology to drive positive environmental and social impact
+
+What's on Offer?
+
+Exciting opportunity with a pioneering social impact startup utilizing satellite data and AI to address global food crisis and climate change challenges
+Be part of a diverse, talented, and mission-driven team
